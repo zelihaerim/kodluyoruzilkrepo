@@ -22,4 +22,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.<br>
 
 # License
-[MIT] (https://choosealicense.com/licenses/mit/) <br>
+[MIT](https://choosealicense.com/licenses/mit/) <br>
